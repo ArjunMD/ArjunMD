@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArjunMD
-- 👀 I’m interested in bringing AI to cardiology
+- 👀 I’m interested in bringing simple, useful, clever coding projects to medicine
 - 🌱 I’m currently learning XgBoost, CatBoost, AutoML, SHAP
 - 💞️ I’m looking to collaborate on any of my interests
 
